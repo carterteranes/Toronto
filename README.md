@@ -1,0 +1,3 @@
+
+Toronto is a semi-faithful revival of the Rarotype typewriter font Ro 44 Toronto. The original design was strictly monospaced, reflecting the technical limits of typewriters. In this version, the spacing has been adjusted to a semi-mono structure, maintaining the mechanical rhythm of the source while allowing for more balanced text flow and improved legibility. The weight has been slightly reduced to suit digital rendering.
+<br><br>The sans-serif OpenType alternates were inspired by Thomas Wyse, a member of the Antique Typewriter Collectors internet group who provided physical samples of the original Ro 44 Toronto. On his machine, the slugs for the letters r, l, and i had been filed down for simplified sans-serif forms.
